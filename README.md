@@ -1,4 +1,4 @@
-# ![Logo do Projeto](https://i.imgur.com/ygYIg9c.png)  Drinks for Devs - NGO Soluções 
+# ![Logo do Projeto](https://i.imgur.com/ygYIg9c.png)  Drinks for Devs
 
 # Preview do Projeto
 ![Gif do Projeto](https://media.giphy.com/media/jXHpScpJvRDeTLOsNF/giphy.gif)
