@@ -22,7 +22,7 @@ O App Drinks for Devs foi um projeto realizado para o teste técnico para a vaga
 Utilize o comando **git clone**  na pasta escolhida: 
 
 ```
-$ git clone https://github.com/IgorAtilar/NGO-Drinks-For-Devs.git
+$ git clone https://github.com/IgorAtilar/drinks-for-devs-react-native.git
 ```
 
 Depois acesse o diretório e instale as dependências executando o comando conforme o gerenciador de pacotes utilizado:
